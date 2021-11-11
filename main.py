@@ -32,6 +32,7 @@ if __name__ == '__main__':
         ["red", "blue", "yellow", "green", "black", "white"],
         ["red", "blue", "yellow"],
         [],
+        ['red'],
         [1, 2, 3, 4, 5, 6],
     ]
     for test in test_cases:
